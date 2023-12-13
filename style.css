@@ -49,6 +49,9 @@ body {
   border: 0;
   border-radius: 5px;
 }
+input {
+  font-family: "Afacad", sans-serif;
+}
 
 .btn:focus {
   outline: 0;
