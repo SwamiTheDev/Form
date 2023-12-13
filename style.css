@@ -1,11 +1,13 @@
-@import url("https://fonts.googleapis.com/css2?family=Muli&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Muli&display=swap"); */
+
+@import url("https://fonts.googleapis.com/css2?family=Afacad:wght@500;600;700&display=swap");
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: "Muli", sans-serif;
+  font-family: "Afacad", sans-serif;
   background-color: #fffffe;
   color: #0d0d0d;
   display: flex;
