@@ -13,6 +13,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
+  margin-top: 50px !important;
   overflow: hidden;
   margin: 0;
 }
@@ -98,6 +99,16 @@ body {
 
 .form-control input:focus + label span,
 .form-control input:valid + label span {
-  color: lightblue;
+  color: #d9376e;
   transform: translateY(-30px);
+}
+
+.portfolio_link {
+  text-decoration: none;
+  color: #d9376e;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+footer {
+  margin-top: 120px;
 }
